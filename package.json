@@ -1,0 +1,16 @@
+{
+  "name": "solution_jai_arora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "test": "mocha --recursive --exit",
+    "solution": "node solution.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
